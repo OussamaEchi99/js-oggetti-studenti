@@ -7,37 +7,37 @@ let students = [
     {
         nome: 'Oussama',
         cognome: 'Echi',
-        eta: '22'
+        eta: 22
     },
 
     {
         nome: 'Darius',
         cognome: 'Coman',
-        eta: '20'
+        eta: 20
     },
 
     {
         nome: 'Sebastian lillo',
         cognome: 'Sebastian',
-        eta: '21'
+        eta: 21
     },
 
     {
         nome: 'Alberto',
         cognome: 'Bisetti',
-        eta: '23'
+        eta: 23
     },
 
     {
         nome: 'Patrick',
         cognome: 'Galasso',
-        eta: '40'
+        eta: 40
     },
 
     {
         nome: 'Emanuele',
         cognome: 'Seta',
-        eta: '25'
+        eta: 25
     }
 ];
 
